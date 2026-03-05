@@ -1,0 +1,6 @@
+tuple=("harathi","anu","janu","lohi")
+print(tuple)
+print(tuple[0])
+print(tuple[1])
+print(tuple[-1])
+print(tuple[0:-1])

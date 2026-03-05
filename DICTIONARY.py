@@ -1,0 +1,12 @@
+dict={}
+print(dict)
+dict[0]="harathi"
+print(dict)
+dict[0]="harathi"
+print(dict)
+dict[1]="hasini"
+print(dict)
+dict[2]="lalli"
+print(dict)
+dict[3]="lochana"
+print(dict)

@@ -1,0 +1,13 @@
+colist=["red","blue","purple","black"]
+colist.append("green")
+print("append is" ,colist)
+colist.insert(1,"pink")
+print("insert of pink color is",colist)
+colist.remove("purple")
+print("remove of purple color is",colist)
+colist.pop(2)
+print("pop of 2 index is",colist)
+colist.count("red")
+print("count list is",colist)
+colist.clear()
+print(colist)
