@@ -1,0 +1,9 @@
+# Generator / List Comprehension
+
+given_list = [x for x in range(5)]
+print(given_list)
+
+new_list = [var + 3 for var in given_list]
+
+for var in new_list:
+    print(var)
